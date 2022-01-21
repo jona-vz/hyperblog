@@ -9,5 +9,6 @@ Un blog increíble para el[ curso de Git y Github](https://platzi.com/cursos/git
 * El verdadero uso de las buenas prácticas
 * Trucos y shotcuts para ser mas eficiente
 * Las diferentes formas de trabajar en un equipo desde Github
+* Creado por el equipo de platzi
 
 Y como un amable recordatorio: **Este readme.md es un ejemplo**.  Diseñado para el reto del curso. Si llegas acá NO TE LO TOMES EN SERIO y si puedes toma el curso de  [**Git y Github**](https://platzi.com/cursos/git-github/ "a ver el curso").
